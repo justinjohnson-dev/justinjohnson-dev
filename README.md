@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/justinjohnsond3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="justinjohnsond3" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/justin-johnson-413a93169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="justin-johnson-413a93169" height="30" width="40" /></a>
-<a href="https://medium.com/@jjustin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jjustin" height="30" width="40" /></a>
+<a href="https://medium.com/@jjustin634" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jjustin" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jj_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jj_dev" height="30" width="40" /></a>
 </p>
 
