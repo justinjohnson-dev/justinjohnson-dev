@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [track-daily-expenses](https://github.com/justinjohnson-dev/track-daily-expenses)
 
-- 🌱 I’m currently learning **LangChain, Embeddings**
+- 🌱 I’m currently learning **LangChain, LLMs**
 
 - 💬 Ask me about **React, AWS**
 
