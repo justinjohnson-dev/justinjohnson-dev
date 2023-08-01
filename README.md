@@ -7,9 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/justinjohnsond3" target="blank"><img src="https://img.shields.io/twitter/follow/justinjohnsond3?logo=twitter&style=for-the-badge" alt="justinjohnsond3" /></a> </p>
 
-- 🔭 I’m currently working on [ai-study-buddy](https://github.com/coleb229/ai-study-buddy) & [vector-search-algorithms-book
-](https://github.com/justinjohnson-dev/vector-search-algorithms-book) & [ai-blog](https://github.com/justinjohnson-dev/ai-blog)
-
+- 🔭 I’m currently working on [ai-study-buddy](https://github.com/AI-Coderz/ai-study-buddy) | [ai-blog](https://github.com/justinjohnson-dev/ai-blog)
+ | [vector-search-algorithms-book](https://github.com/justinjohnson-dev/vector-search-algorithms-book)
 - 🌱 I’m currently learning **LangChain, LLMs**
 
 - 💬 Ask me about **React, AWS**
