@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React, AWS, FastAPI, GPT, Python**
 
-- 📫 How to reach me **jjustin634@gmail.com**
+- 📫 How to reach me **justinjohnsondev00@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
