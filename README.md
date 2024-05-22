@@ -11,7 +11,7 @@
  | [vector-search-algorithms-book](https://github.com/justinjohnson-dev/vector-search-algorithms-book)
 - 🌱 I’m currently learning **LangChain, LLMs**
 
-- 💬 Ask me about **React, AWS**
+- 💬 Ask me about **React, AWS, FastAPI, GPT, Python**
 
 - 📫 How to reach me **jjustin634@gmail.com**
 
