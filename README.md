@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on summarization app (more info coming)
 - 🌱 I’m currently learning **LLMs**
 
-- 💬 Ask me about **React, AWS, FastAPI, GenAI, Python**
+- 💬 Ask me about **React, AWS, FastAPI, GenAI, Python, LLMs, Architecture**
 
 - 📫 How to reach me **justinjohnsondev00@gmail.com**
 
