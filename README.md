@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/justinjohnsond3" target="blank"><img src="https://img.shields.io/twitter/follow/justinjohnsond3?logo=twitter&style=for-the-badge" alt="justinjohnsond3" /></a> </p>
 
-- 🔭 I’m currently working on summarization app (more info coming)
+- 🔭 I’m currently working [OptiTrade AI](https://github.com/OptiTrade-AI)
 - 🌱 I’m currently learning **LLMs**
 
 - 💬 Ask me about **React, AWS, FastAPI, GenAI, Python, LLMs, Architecture**
