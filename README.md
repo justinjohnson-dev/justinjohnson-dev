@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Justin Johnson</h1>
-<h3 align="center">Fueled by coffee ☕️</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justinjohnson-dev&label=Profile%20views&color=0e75b6&style=flat" alt="justinjohnson-dev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justinjohnson-dev" alt="justinjohnson-dev" /></a> </p>
