@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Justin Johnson</h1>
-<h3 align="center">Fueled by coffee ![image](https://github.com/user-attachments/assets/45f1203f-4e4f-4724-a1a0-565dcf4a04e4)
-</h3>
+<h3 align="center">Fueled by coffee ☕️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justinjohnson-dev&label=Profile%20views&color=0e75b6&style=flat" alt="justinjohnson-dev" /> </p>
 
