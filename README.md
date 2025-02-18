@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React, AWS, FastAPI, GenAI, Python, LLMs, Architecture**
 
-- 📫 How to reach me **justinjohnsondev00@gmail.com**
+- 📫 How to reach me **jjdev@optitrade-ai.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
