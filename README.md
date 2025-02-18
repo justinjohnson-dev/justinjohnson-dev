@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Justin Johnson</h1>
-<h3 align="center">As a Full-Stack Engineer, my passion lies in learning and crafting innovative solutions that simplify life. From front-end to back-end, my hands are always busy turning ideas into reality. If you're searching for a dedicated coder, a creative problem-solver, and an avid learner, you're in the right place.</h3>
+<h3 align="center">Fueled by coffee ☕.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justinjohnson-dev&label=Profile%20views&color=0e75b6&style=flat" alt="justinjohnson-dev" /> </p>
 
