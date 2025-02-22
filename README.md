@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/justinjohnsond3" target="blank"><img src="https://img.shields.io/twitter/follow/justinjohnsond3?logo=twitter&style=for-the-badge" alt="justinjohnsond3" /></a> </p>
 
 - 🔭 I’m currently working [OptiTrade AI](https://github.com/OptiTrade-AI)
-- 🌱 I’m currently learning **LLMs**
+- 🌱 I’m currently learning **LLMs, Options Trading**
 
 - 💬 Ask me about **FastAPI, GenAI, Python, LLMs, Architecture, Kafka**
 
