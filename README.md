@@ -1,7 +1,4 @@
 - 🔭 I’m currently working on [OptiTrade AI](https://github.com/OptiTrade-AI)
-- 🌱 I’m currently learning **LLMs, Options Trading**
-
-- 💬 Ask me about **FastAPI, GenAI, Python, LLMs, Architecture, Kafka**
 
 - 📫 How to reach me **jjdev@optitrade-ai.com**
 
