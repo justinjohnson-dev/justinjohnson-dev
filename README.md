@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Justin Johnson</h1>
+<h1👋</h1>
 
 - 🔭 I’m currently working on [OptiTrade AI](https://github.com/OptiTrade-AI)
 - 🌱 I’m currently learning **LLMs, Options Trading**
