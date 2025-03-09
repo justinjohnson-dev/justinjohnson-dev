@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on [OptiTrade AI](https://github.com/OptiTrade-AI)
+- 🔭 I’m currently working on [OptiTrade AI](https://github.com/OptiTrade-AI/about-us)
 
 - 📫 How to reach me **jjdev@optitrade-ai.com**
 
